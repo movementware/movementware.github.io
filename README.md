@@ -1,3 +1,4 @@
+
 ## About
 
 ### Our Mission
@@ -6,29 +7,23 @@
 
 ### Who We Are
 
-```markdown
 
-# Header 1
-## Header 2
-### Header 3
+[Iain](https://twitter.com/isiain)
 
-- Bulleted
-- List
+![Image](https://pbs.twimg.com/profile_images/809477394566381568/bBnxbtbD_200x200.jpg)
 
-1. Numbered
-2. List
+[Evan](https://twitter.com/loopypoet)
 
-**Bold** and _Italic_ and `Code` text
+![Image](https://pbs.twimg.com/profile_images/1116551790302875650/MKZQnMnq_200x200.png)
 
-[Link](url) and ![Image](https://pbs.twimg.com/profile_images/809477394566381568/bBnxbtbD_400x400.jpg)
-```
+[Vienna](https://twitter.com/viennazero)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](https://cocaprevolution.net/wp-content/uploads/2017/10/Vienna-Rae-Looi-300x300.png) 
 
-### Jekyll Themes
+[Valerie](https://twitter.com/hacktheearth19)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/movementware/movementware.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Image](https://e27.co/wp-content/uploads/2015/02/Valerie.png) 
 
-### Support or Contact
+### Connect
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Sign up [here](https://github.com/contact) and we’ll sort it out.
